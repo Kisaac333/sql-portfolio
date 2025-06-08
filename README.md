@@ -1,30 +1,26 @@
-# SQL Portfolio by Isaac Koomson
+# SQL Portfolio by Isaac Appiah-Asare Koomson
 
-Welcome to my SQL project portfolio! This repository showcases my growing skills in SQL for data analytics. Each project includes hands-on queries, data exploration, and insights from real or realistic datasets.
+Welcome to my SQL project portfolio. This repository highlights my work using SQL for data analysis across different domains. Each project folder includes datasets, queries, and insights derived from analysis.
 
 ## Projects
 
 ### 1. Sales Data Analysis
-- **Skills:** SELECT, JOIN, GROUP BY, HAVING, ORDER BY
-- **Description:** Analyzed sales trends by region, customer segment, and product category.
-- **Goal:** Understand revenue performance and identify top-performing areas.
+- Dataset: Sample Superstore (CSV)
+- Skills: SELECT, JOIN, GROUP BY, HAVING, ORDER BY
+- Focus: Sales performance by region, product category, and customer segment
+- Goal: Extract actionable business insights from retail sales data
 
-### 2. COVID-19 Country Comparison
-- **Skills:** Subqueries, filtering, data transformation
-- **Description:** Compared case rates, vaccination progress, and fatality ratios by continent.
+### 2. COVID-19 Country Comparison (Coming Soon)
+- Analyze case, fatality, and vaccination trends by region and income classification
 
-### 3. Economic Indicators Explorer
-- **Skills:** WHERE, LIKE, IN, aggregate functions
-- **Description:** Filtered and summarized inflation and unemployment rates across countries and regions.
+### 3. Economic Indicators Explorer (Coming Soon)
+- Examine global inflation and unemployment rates by year and government type
 
-## Goals
-
-This portfolio supports my journey toward becoming a skilled data analyst. Future additions will include:
-- Window functions
-- Common table expressions (CTEs)
-- Advanced JOINs and subqueries
+## Tools
+- SQL (PostgreSQL or SQLite)
+- GitHub for version control
+- DB Browser for SQLite or pgAdmin (depending on platform)
 
 ## Contact
-
-- **LinkedIn:** [www.linkedin.com/in/isaac-appiah-asare-koomson]
-- **Email:** [ikappiah-asare@wacci.ug.edu.gh]
+- LinkedIn: [Insert LinkedIn URL]
+- Email: [Insert email address]
