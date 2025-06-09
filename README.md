@@ -1,4 +1,4 @@
-# SQL Portfolio by Kisaac
+# SQL Portfolio by Isaac Appiah-Asare Koomson
 
 Welcome to my SQL Portfolio! This repository showcases practical SQL projects designed to demonstrate my data analysis skills across real-world datasets. Each project answers specific business questions using structured queries and best practices.
 
