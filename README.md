@@ -1,26 +1,56 @@
-# SQL Portfolio by Isaac Appiah-Asare Koomson
+# SQL Portfolio by Kisaac
 
-Welcome to my SQL project portfolio. This repository highlights my work using SQL for data analysis across different domains. Each project folder includes datasets, queries, and insights derived from analysis.
+Welcome to my SQL Portfolio! This repository showcases practical SQL projects designed to demonstrate my data analysis skills across real-world datasets. Each project answers specific business questions using structured queries and best practices.
+
+---
 
 ## Projects
 
-### 1. Sales Data Analysis
-- Dataset: Sample Superstore (CSV)
-- Skills: SELECT, JOIN, GROUP BY, HAVING, ORDER BY
-- Focus: Sales performance by region, product category, and customer segment
-- Goal: Extract actionable business insights from retail sales data
+### [Sales Analysis](https://github.com/Kisaac333/sql-portfolio/tree/main/sales_analysis)
+Analyze a retail sales dataset to uncover trends and performance metrics:
+- Key metrics: Total Sales, Profit, Orders, Discounts
+- Top-performing customers, products, and regions
+- Monthly sales trends
+- Insights into profitability drivers
 
-### 2. COVID-19 Country Comparison (Coming Soon)
-- Analyze case, fatality, and vaccination trends by region and income classification
+ Files:
+- `sales_data.csv` – Raw dataset
+- `queries.sql` – SQL queries used in the analysis
+- `README.md` – Project documentation & insights
 
-### 3. Economic Indicators Explorer (Coming Soon)
-- Examine global inflation and unemployment rates by year and government type
+---
 
-## Tools
-- SQL (PostgreSQL or SQLite)
-- GitHub for version control
-- DB Browser for SQLite or pgAdmin (depending on platform)
+### Customer Segmentation *(coming soon)*
+A breakdown of customers based on purchase behavior:
+- Sales and profit by segment and region
+- Top customer groups by frequency and value
+- Patterns in discount usage and profitability
 
+---
+
+## Purpose
+
+This portfolio demonstrates my ability to:
+- Write clean, efficient SQL queries
+- Perform exploratory and business-driven data analysis
+- Communicate insights clearly
+- Structure projects for professional presentation
+
+---
+
+## Tools Used
+- SQL (SQLite and PostgreSQL)
+- DB Browser for SQLite (for local testing)
+- Git & GitHub for version control and project organization
+
+---
+
+## Connect
+If you'd like to collaborate, offer feedback, or learn more, feel free to reach out via GitHub or LinkedIn.
 ## Contact
-- LinkedIn: [Insert LinkedIn URL]
-- Email: [Insert email address]
+- LinkedIn: [www.linkedin.com/in/isaac-appiah-asare-koomson]
+- Email: [ikappiah-asare@wacci.ug.edu.gh]
+
+---
+
+Thanks for checking out my work!
