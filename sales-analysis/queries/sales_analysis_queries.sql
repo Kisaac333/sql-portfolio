@@ -37,6 +37,15 @@ ORDER BY
 LIMIT 1;
 
 -- -----------------------------------
+-- Best Selling Product by Quantity
+-- -----------------------------------
+SELECT SUM(Quantity) AS `Total Quantity Sold`, Product
+FROM sales_data
+GROUP BY Product
+ORDER BY `Total Quantity Sold` DESC
+LIMIT 1;
+
+-- -----------------------------------
 -- Revenue by Product Category
 -- -----------------------------------
 SELECT
