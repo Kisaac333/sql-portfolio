@@ -85,19 +85,6 @@ GROUP BY
   Month
 ORDER BY 
   Month ASC;
-  
--- -----------------------------------
--- Best Selling Product by Quantity
--- -----------------------------------
-SELECT 
-	SUM(Quantity) AS `Total Quantity Sold`,
-	Product
-FROM sales_data
-GROUP BY 
-	Product
-ORDER BY 
-	`Total Quantity Sold` DESC
-LIMIT 1;
 
 -- -----------------------------------
 -- Top 5 Customers by Revenue
